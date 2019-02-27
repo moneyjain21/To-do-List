@@ -1,0 +1,36 @@
+#div1 {
+        font-family: "Times New Roman", Times, serif;
+        font-size: 40px;
+        text-align: center;
+        color: black;
+        margin-top: 10px;
+        font-weight: 100;
+      }
+      #div2 {
+        margin-top: 10px;
+        text-align: center;
+      }
+      #date,
+      #description,
+      #add {
+        margin-left: 10px;
+
+        display: inline-block;
+      }
+     #div3 {
+        margin-top: 20px;
+      }
+      th,
+      td {
+        font: 14px Verdana;
+      }
+      table,
+      td {
+        border: 1px solid black;
+        border-collapse: collapse;
+        padding: 2px 3px;
+        text-align: center;
+      }
+      th {
+        font-weight: bold;
+      }
